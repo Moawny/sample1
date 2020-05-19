@@ -41,7 +41,7 @@
    opacity:1;
   }
 }
-@media (max-width:360px) {
+@media (max-width:460px) {
   @keyframes scoll {
     0% {
      height:30px;
