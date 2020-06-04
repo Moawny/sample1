@@ -70,7 +70,7 @@ $(document).ready(function() {
             });
             big.css({
                 border:'2px solid #6ca93f',
-                
+                background:'#777'
             });
             pmc2.css({
                 background:'#fff',
