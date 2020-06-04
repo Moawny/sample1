@@ -200,9 +200,11 @@
  animation:scoll 2s ease-in-out 1; 
 }
 .h31 {
+ -webkit-animation:h31 1500ms ease-in-out .3s 1;
  animation:h31 1500ms ease-in-out .3s 1;
 }
 .h32 {
+ -webkit-animation:h32 1500ms ease-in-out .3s 1;
  animation:h32 1500ms ease-in-out .3s 1;
 }
 .hr {
